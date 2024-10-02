@@ -11,6 +11,7 @@ An iOS Application that uses Marvel API. Search Heroes, go to Details page, favo
 - Delegate and Protocols
 - Dependency Injection
 - 100% ViewCode
+- KingFisher
 - UserDefatuls (persistence)
 - CocoaPods / SPM
 - Clean Architecture
@@ -24,9 +25,14 @@ An iOS Application that uses Marvel API. Search Heroes, go to Details page, favo
 - Favorites Screen
 
 ## Screenshots
-|Search Screen|Heroes List Screen|Heroes Details Screen|Heroes Page API Screen|Favorites Screen|   
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="/MyHeroes/Assets.xcassets/SearchScreen.png" width="250"/>|<img src="/MyHeroes/Assets.xcassets/HeroesList.png" width="250"/>|<img src="/MyHeroes/Assets.xcassets/HeroesDetails.png" width="250"/>|<img src="/MyHeroes/Assets.xcassets/HeroesPageAPI.png" width="250"/>|<img src="/MyHeroes/Assets.xcassets/Favorites.png" width="250"/>|
+|Launch Screen|Search Screen|Heroes List Screen|Heroes Details Screen|Heroes Page API Screen|Favorites Screen|   
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="/Images/LaunchScreen.png" width="250"/>|<img src="/Images/Search Screen.png" width="250"/>|<img src="/Images/Heroes List Screen.png" width="250"/>|<img src="/Images/Heroes Details Screen.png" width="250"/>|<img src="/Images/Heroes Page API Screen.png" width="250"/>|<img src="/Images/Favorites Screen.png" width="250"/>|
+
+## Video
+
+https://github.com/user-attachments/assets/a4999f0e-3724-4d89-8884-386fe0813b4d
+
 
 ## Steps to build and run
 - Clone repo 
