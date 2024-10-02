@@ -47,7 +47,7 @@ public class HeroDetailsViewModel: HeroDetailsViewModelProtocol {
     }
     
     public func getGetMoreDetails() {
-        guard let htmlUrl = heroEntity?.urls?.first?.url,
+        guard let htmlUrl = heroEntity?.urls?.last?.url,
               let url = URL(string: htmlUrl)
         else {
             let alert = DialogEntity(title: Constants.titleMessageFailure,
